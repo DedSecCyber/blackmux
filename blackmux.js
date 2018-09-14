@@ -1,13 +1,13 @@
 {
-  "name": "myproject",
+  "name": "blackmux",
   "version": "1.0",
-  "homepage": "http://mysite.com",
+  "homepage": "https://dedseccyberteam.blogspot.com/",
   "maintainer": "@mynick",
   "description": "my description",
   "arch": "all",
   "depends": ["dependency"],
   "files" :{
-    "myfile.py": "bin/myfile",
+    "blackmux.py": "bin/blackmux",
     "mylib.so": "lib/mylib.so"
   }
 }
